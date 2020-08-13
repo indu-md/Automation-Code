@@ -17,7 +17,7 @@ public class dataparsexml {
 			//System.out.println(obj.getValue("Browser"));
 			//System.out.println(obj.getValue("Platform"));
 			//obj.CreateXmlFile();
-			//obj.readxml();
+			obj.readxml();
 			//obj.count();
 			
 		}
